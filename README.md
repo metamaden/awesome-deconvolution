@@ -46,13 +46,15 @@ transfer learning and reuse of existing computational tools.
 
 * [ImmuCC](https://github.com/wuaipinglab/ImmuCC) : Cell-Centric View of Tissue Transcriptome Measuring Cellular Compositions of Immune Microenvironment From Mouse RNA-Seq Data ([Chen et al 2017](https://www.nature.com/articles/srep40508); tags: immune cells; blood cells; mouse; rna-seq).
 
-* [SCDC]([https://academic.oup.com/bib/article/22/1/416/5699815](https://meichendong.github.io/SCDC/)) : Bulk Gene Expression Deconvolution by Multiple Single-Cell RNA Sequencing References ([Dong et al 2021](https://academic.oup.com/bib/article/22/1/416/5699815); tags: single-cell; rna-seq; transcriptomics).
+* [SCDC](https://meichendong.github.io/SCDC/) : Bulk Gene Expression Deconvolution by Multiple Single-Cell RNA Sequencing References ([Dong et al 2021](https://academic.oup.com/bib/article/22/1/416/5699815); tags: single-cell; rna-seq; transcriptomics).
 
 * [SPLITR](https://www.biorxiv.org/content/10.1101/2021.01.21.426000v1) : Integrates single-nucleus and bulk RNA-seq data, enabling phenotype-aware deconvolution and correcting for systematic discrepancies between bulk and single-cell data ([Park et al 2021](https://www.biorxiv.org/content/10.1101/2021.01.21.426000v1); tags: eqtl; gwas; genetics).
 
 ## Simulation
 
-* [SimBu](https://github.com/omnideconv/SimBu) : The goal of SimBu is to simulate pseudo-bulk RNAseq datasets with variable cell-type fractions baed on public or private single-cell RNAseq datasets.
+* [SimBu](https://github.com/omnideconv/SimBu) : The goal of SimBu is to simulate pseudo-bulk RNAseq datasets with variable cell-type fractions baed on public or private single-cell RNAseq datasets ((Dietrich et al 2022)[https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii141/6702009]).
+
+* [splatter](http://bioconductor.org/packages/release/bioc/html/splatter.html) : Splatter is a package for the simulation of single-cell RNA sequencing count data ((Zappia et al 2017)[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1305-0]).
 
 # Resource hubs for deconvolution
 
