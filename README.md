@@ -48,9 +48,7 @@ transfer learning and reuse of existing computational tools.
 
 * [SCDC]([https://academic.oup.com/bib/article/22/1/416/5699815](https://meichendong.github.io/SCDC/)) : Bulk Gene Expression Deconvolution by Multiple Single-Cell RNA Sequencing References ([Dong et al 2021](https://academic.oup.com/bib/article/22/1/416/5699815); tags: single-cell; rna-seq; transcriptomics).
 
-* [SPLITR](https://www.biorxiv.org/content/10.1101/2021.01.21.426000v1)) : Integrates single-nucleus and bulk RNA-seq data, enabling phenotype-aware deconvolution and correcting for systematic discrepancies between bulk and single-cell data ([Park et al 2021](https://www.biorxiv.org/content/10.1101/2021.01.21.426000v1); tags: eqtl; gwas; genetics).
-
-#[]() : ()
+* [SPLITR](https://www.biorxiv.org/content/10.1101/2021.01.21.426000v1) : Integrates single-nucleus and bulk RNA-seq data, enabling phenotype-aware deconvolution and correcting for systematic discrepancies between bulk and single-cell data ([Park et al 2021](https://www.biorxiv.org/content/10.1101/2021.01.21.426000v1); tags: eqtl; gwas; genetics).
 
 ## Simulation
 
