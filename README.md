@@ -1,13 +1,24 @@
 # awesome-deconvolution
+
 List of deconvolution methods and resources.
+
+# Motivation
+
+Deconvolution is the problem of predicting pure signals from signal mixtures. It has wide applications in many areas, from astrophysics, to image processing, to medicine, to transcriptomics. Because of this,
+there are many methods out there and many more are published with each year. For anyone new or returning
+to this subject, the prospect of catching up on available methods and literature can be daunting. This
+repo can help with this. It can also help find connections between methods across areas, to encourage
+transfer learning and reuse of existing computational tools.
 
 # Software
 
 ## Methods
 
-* [MuSiC](https://github.com/xuranw/MuSiC) : MuSiC is an analysis toolkit for single-cell RNA-Seq experiments
+* [MuSiC](https://github.com/xuranw/MuSiC) : MuSiC is an analysis toolkit for single-cell RNA-Seq experiments ((Wang et al 2019)[https://www.nature.com/articles/s41467-018-08023-x]; tags: single-cell; transcriptomics; rna-seq; bulk).
 
-* [Bisque](https://github.com/cozygene/bisque) : An R toolkit for accurate and efficient estimation of cell composition ('decomposition') from bulk expression data with single-cell information.
+* [MuSiC2](https://github.com/Jiaxin-Fan/MuSiC2) : Cell type deconvolution for multi-condition bulk RNA-seq data ([Fan et al 2022](https://academic.oup.com/bib/article-abstract/23/6/bbac430/6751147?redirectedFrom=fulltext); tags: single-cell; transcriptomics; rna-seq; bulk; case_control)
+
+* [Bisque](https://github.com/cozygene/bisque) : An R toolkit for accurate and efficient estimation of cell composition ('decomposition') from bulk expression data with single-cell information ([Jew et al 2020](https://www.nature.com/articles/s41467-020-15816-6); tags: single-cell; transcriptomics; rna-seq; bulk).
 
 * [CIBERSORT](https://cibersortx.stanford.edu/) : CIBERSORT is an analytical tool from the Alizadeh Lab and Newman Lab to impute gene expression profiles and provide an estimation of the abundances of member cell types in a mixed cell population, using gene expression data ([Newman et al 2015](https://www.nature.com/articles/nmeth.3337)).
 
@@ -24,6 +35,22 @@ List of deconvolution methods and resources.
 * [ISOpure](https://genomemedicine.biomedcentral.com/articles/10.1186/gm433) : Uses a set of tumor expression profiles and a panel of healthy tissue expression profiles to generate a purified cancer profile for each tumor sample, and an estimate of the proportion of RNA originating from cancerous cells ([Quon et al 2013](https://genomemedicine.biomedcentral.com/articles/10.1186/gm433))
 
 * [DSA](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-89#Sec4) : Digital Sorting Algorithm (DSA) for extracting cell-type specific gene expression profiles from mixed tissue samples that is unbiased and does not require prior knowledge of cell type frequencies.
+
+* [dtangle](https://cran.r-project.org/web/packages/dtangle/index.html) : Deconvolving cell types from high-throughput gene profiling data ([Hunt et al 2019](https://academic.oup.com/bioinformatics/article/35/12/2093/5165376?login=false)).
+
+* [Bulk2Space](https://github.com/ZJUFanLab/bulk2space) : A spatial deconvolution method based on deep learning frameworks, which converts bulk transcriptomes into spatially resolved single-cell expression profiles ([Liao et al 2022](https://www.biorxiv.org/content/10.1101/2022.01.15.476472v1)).
+
+* [cell2location](https://github.com/BayraktarLab/cell2location/) : Comprehensive mapping of tissue cell architecture via integrated single cell and spatial transcriptomics ([Kleshchevnikov et al 2022](https://www.nature.com/articles/s41587-021-01139-4)).
+
+* [BayesSpace](http://www.bioconductor.org/packages/release/bioc/html/BayesSpace.html) : Clustering and Resolution Enhancement of Spatial Transcriptomes ([Zhao et al 2021](https://www.nature.com/articles/s41587-021-00935-2)).
+
+* [ImmuCC](https://github.com/wuaipinglab/ImmuCC) : Cell-Centric View of Tissue Transcriptome Measuring Cellular Compositions of Immune Microenvironment From Mouse RNA-Seq Data ([Chen et al 2017](https://www.nature.com/articles/srep40508); tags: immune cells; blood cells; mouse; rna-seq).
+
+* [SCDC]([https://academic.oup.com/bib/article/22/1/416/5699815](https://meichendong.github.io/SCDC/)) : Bulk Gene Expression Deconvolution by Multiple Single-Cell RNA Sequencing References ((Dong et al 2021)[https://academic.oup.com/bib/article/22/1/416/5699815]; tags: single-cell; rna-seq; transcriptomics).
+
+* [SPLITR](https://www.biorxiv.org/content/10.1101/2021.01.21.426000v1)) : Integrates single-nucleus and bulk RNA-seq data, enabling phenotype-aware deconvolution and correcting for systematic discrepancies between bulk and single-cell data ([Park et al 2021](https://www.biorxiv.org/content/10.1101/2021.01.21.426000v1); tags: eqtl; gwas; genetics).
+
+#[]() : ()
 
 ## Simulation
 
