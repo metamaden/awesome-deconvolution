@@ -52,9 +52,9 @@ transfer learning and reuse of existing computational tools.
 
 ## Simulation
 
-* [SimBu](https://github.com/omnideconv/SimBu) : The goal of SimBu is to simulate pseudo-bulk RNAseq datasets with variable cell-type fractions baed on public or private single-cell RNAseq datasets ((Dietrich et al 2022)[https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii141/6702009]).
+* [SimBu](https://github.com/omnideconv/SimBu) : The goal of SimBu is to simulate pseudo-bulk RNAseq datasets with variable cell-type fractions baed on public or private single-cell RNAseq datasets ([Dietrich et al 2022](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii141/6702009); tags: pseudobulk; single-cell; rna-seq; simulation; bias; cell_size; scale_factor; transcriptomics; bulk).
 
-* [splatter](http://bioconductor.org/packages/release/bioc/html/splatter.html) : Splatter is a package for the simulation of single-cell RNA sequencing count data ((Zappia et al 2017)[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1305-0]).
+* [splatter](http://bioconductor.org/packages/release/bioc/html/splatter.html) : Splatter is a package for the simulation of single-cell RNA sequencing count data ([Zappia et al 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1305-0); tags: simulation; single-cell; rna-seq; bias; transcriptomics).
 
 # Resource hubs for deconvolution
 
