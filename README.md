@@ -54,6 +54,8 @@ transfer learning and reuse of existing computational tools.
 
 * [immunedeconv](https://github.com/omnideconv/immunedeconv) : An R package for unified access to computational methods for estimating immune cell fractions from bulk RNA sequencing data. ; tags: R; Rstats; Rpackage; immune; immune_system; blood; blood_cells; framework
 
+* [lute](https://github.com/metamaden/lute) : An R package for bulk deconvolution access, simulation, optimization, and benchmarking. tags: R; Rstats; bioconductor; framework; size_factors; music; bisque; deconrnaseq; epic; nnls
+
 ## Workflows/pipelines
 
 * [Hippen et al 2023](https://github.com/greenelab/deconvolution_pilot/tree/main/scripts/deconvolution) : Snakemake workflow for deconvolution of bulk tumor tissues (see also: [Hippen et al 2023](https://www.biorxiv.org/content/10.1101/2022.12.04.519045v2)). tags: snakemake; workflow; pipeline; tumor; cancer; bulk
