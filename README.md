@@ -52,7 +52,7 @@ transfer learning and reuse of existing computational tools.
 
 ## Frameworks 
 
-* [immunedeconv](https://github.com/omnideconv/immunedeconv) : An R package for unified access to computational methods for estimating immune cell fractions from bulk RNA sequencing data. ; tags: R; Rstats; Rpackage; immune; immune_system; blood; blood_cells; framework
+* [immunedeconv](https://github.com/omnideconv/immunedeconv) : An R package for unified access to computational methods for estimating immune cell fractions from bulk RNA sequencing data (see also: [Sturm et al 2019](https://academic.oup.com/bioinformatics/article/35/14/i436/5529146)); tags: R; Rstats; Rpackage; immune; immune_system; blood; blood_cells; framework
 
 * [lute](https://github.com/metamaden/lute) : An R package for bulk deconvolution access, simulation, optimization, and benchmarking. tags: R; Rstats; bioconductor; framework; size_factors; music; bisque; deconrnaseq; epic; nnls
 
