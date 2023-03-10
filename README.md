@@ -50,6 +50,14 @@ transfer learning and reuse of existing computational tools.
 
 * [SPLITR](https://www.biorxiv.org/content/10.1101/2021.01.21.426000v1) : Integrates single-nucleus and bulk RNA-seq data, enabling phenotype-aware deconvolution and correcting for systematic discrepancies between bulk and single-cell data ([Park et al 2021](https://www.biorxiv.org/content/10.1101/2021.01.21.426000v1); tags: eqtl; gwas; genetics).
 
+## Frameworks 
+
+* [immunedeconv](https://github.com/omnideconv/immunedeconv) : An R package for unified access to computational methods for estimating immune cell fractions from bulk RNA sequencing data. ; tags: R; Rstats; Rpackage; immune; immune_system; blood; blood_cells; framework
+
+## Workflows/pipelines
+
+* [Hippen et al 2023](https://github.com/greenelab/deconvolution_pilot/tree/main/scripts/deconvolution) : Snakemake workflow for deconvolution of bulk tumor tissues (see also: [Hippen et al 2023](https://www.biorxiv.org/content/10.1101/2022.12.04.519045v2)). tags: snakemake; workflow; pipeline; tumor; cancer; bulk
+
 ## Simulation
 
 * [SimBu](https://github.com/omnideconv/SimBu) : The goal of SimBu is to simulate pseudo-bulk RNAseq datasets with variable cell-type fractions baed on public or private single-cell RNAseq datasets ([Dietrich et al 2022](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii141/6702009); tags: pseudobulk; single-cell; rna-seq; simulation; bias; cell_size; scale_factor; transcriptomics; bulk).
