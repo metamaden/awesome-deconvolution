@@ -16,6 +16,8 @@ transfer learning and reuse of existing computational tools.
 
 * [TOAST](https://bioconductor.org/packages/release/bioc/html/TOAST.html) : TOols for the Analysis of heterogeneouS Tissues. Tools for the analysis of heterogeneous tissues. (see also: [Li and Wu 2019](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1778-0)); tags: bioconductor; transcriptomics; reference-free; partial_reference-free
 
+* [TOAST-csDeconv])(https://bioconductor.org/packages/release/bioc/html/TOAST.html) : Function to improve the feature selection in reference-free deconvolution through cross-cell type differential analysis. (see also: [Li and Wu 2019](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1778-0)) tags: methylation; dna_methylation; dnam; epigenetics
+
 * [SingleR](https://bioconductor.org/packages/release/bioc/html/SingleR.html) : Performs unbiased cell type recognition from single-cell RNA sequencing data, by leveraging reference transcriptomic datasets of pure cell types to infer the cell of origin of each single cell independently (see also: [Aran et al 2019](https://www.nature.com/articles/s41590-018-0276-y)); tags: single-cell; transcriptomics; bioconductor; r
 
 * [xCell](https://xcell.ucsf.edu/) : xCell is a webtool that performs cell type enrichment analysis from gene expression data for 64 immune and stroma cell types (see also: [Aran et al 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1349-1)); tags: bulk; transcriptomics
@@ -45,6 +47,18 @@ transfer learning and reuse of existing computational tools.
 * [CIBERSORT](https://cibersortx.stanford.edu/) : CIBERSORT is an analytical tool from the Alizadeh Lab and Newman Lab to impute gene expression profiles and provide an estimation of the abundances of member cell types in a mixed cell population, using gene expression data ([Newman et al 2015](https://www.nature.com/articles/nmeth.3337)).
 
 * [CIBERSORTx](https://cibersortx.stanford.edu/) : Extension of the original CIBERSORT for RNA-seq transcriptomics data ([Newman et al 2019](https://www.nature.com/articles/s41587-019-0114-2)).
+
+* [EpiDISH](https://github.com/sjczheng/EpiDISH) : Epigenetic Dissection of Intra-Sample-Heterogeneity. (see also: [Teschendorff et al 2017](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1511-5)); tags: methylation; dna_methylation; dnam; epigenetics;
+
+* [MethylCIBERSORT](https://zenodo.org/record/1298968) : Reference-based method using CBS algorithm. Implemented as an R package (see also: [Chakravarthy et al 2018](https://www.nature.com/articles/s41467-018-05570-1#Sec12)); tags: methylation; dna_methylation; dnam; epigenetics;
+
+* [MethylResolver](https://github.com/darneson/MethylResolver) : Robust method for deconvolving bulk tissue methylation data using least trimmed squares (LTS) regression (see also: [](https://www.nature.com/articles/s42003-020-01146-2)); tags: methylation; dna_methylation; dnam; epigenetics; r
+
+* [ARIC](https://xwanglabthu.github.io/ARIC/) : RAccurate and robust inference of cell type proportions from bulk gene expression or DNA methylation data (see also: [Zhang et al 2022](https://academic-oup-com.proxy1.library.jhu.edu/bib/article/23/1/bbab362/6361035)). tags: transcriptomics; methylation; dna_methylation; dnam; epigenetics; python; svr;
+
+* [RefFreeEWAS](https://cran.r-project.org/src/contrib/Archive/RefFreeEWAS/) : Reference-free method for conducting EWAS while deconvoluting DNA methylation arising as mixtures of cell types.  This method is similar to surrogate variable analysis (SVA and ISVA), except that it makes additional use of a biological mixture assumption. (see also: [Houseman et al 2016](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1140-4#Sec10)). tags: methylation; dna_methylation; dnam; epigenetics; r; cran; toast; 
+
+* [Houseman et al 2012](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-86) : Early and influential reference-based method for deconvolutino of blood cell types from DNA methylation array data. (see also: [minfi](https://www.bioconductor.org/packages/release/bioc/html/minfi.html)). tags: methylation; dna_methylation; dnam; epigenetics; minfi; r; bioconductor
 
 * [DeconRNASeq](http://bioconductor.org/packages/release/bioc/html/DeconRNASeq.html) : R package for deconvolution of heterogeneous tissues based on mRNA-Seq data. It modeled expression levels from heterogeneous cell populations in mRNA-Seq as the weighted average of expression from different constituting cell types and predicted cell type proportions of single expression profiles. ([Gong et al 2013](https://academic.oup.com/bioinformatics/article/29/8/1083/229442))
 
