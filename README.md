@@ -14,6 +14,8 @@ transfer learning and reuse of existing computational tools.
 
 ## Methods
 
+* [SPOTlight](https://marcelosua.github.io/SPOTlight/) : SPOTlight provides a tool that enables the deconvolution of mixtures of cells from a single-cell reference (see also: [Bayes et al 2021](https://marcelosua.github.io/SPOTlight/)); tags: r; bioconductor; spatial; transcriptomics; spot; spot_deconvolution 
+
 * [Tangram](https://github.com/broadinstitute/Tangram) : Tangram is a Python package, written in PyTorch and based on scanpy, for mapping single-cell (or single-nucleus) gene expression data onto spatial gene expression data. (see also: [Biancalani and Scalia et al 2021](https://www.nature.com/articles/s41592-021-01264-7)); tags: python; pytorch; scanpy; spatial; transcriptiomics; spot; spot_deconvolution
 
 * [MuSiC](https://github.com/xuranw/MuSiC) : MuSiC is an analysis toolkit for single-cell RNA-Seq experiments ([Wang et al 2019](https://www.nature.com/articles/s41467-018-08023-x); tags: single-cell; transcriptomics; rna-seq; bulk).
