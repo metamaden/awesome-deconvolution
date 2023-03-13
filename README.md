@@ -18,6 +18,8 @@ transfer learning and reuse of existing computational tools.
 
 * [xCell](https://xcell.ucsf.edu/) : xCell is a webtool that performs cell type enrichment analysis from gene expression data for 64 immune and stroma cell types (see also: [Aran et al 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1349-1)); tags: bulk; transcriptomics
 
+* [DCQ](http://dcq.tau.ac.il/) : Digital cell quantification (DCQ). Server for digital cell quantity estimation (see also: [Altboum et al 2014](https://www.embopress.org/doi/full/10.1002/msb.134947)); tags: immune; immune_cell; murine; mouse;
+
 * [seq-ImmuCC](http://218.4.234.74:3200/immune/) : ImmuCC server was developed to estimate the relative immune cell compositions in mouse tissue from the transcriptomal data profiled on both microarray and RNA-Seq platforms (see also: (Chen et al 2018)[https://www.frontiersin.org/articles/10.3389/fimmu.2018.01286/full]); tags: immune; immune_cell; murine; mouse; transcriptomics
 
 * [mMCP-counter](https://github.com/cit-bioinfo/mMCP-counter) : Murine version of MCP-counter, a tool to estimate the immune and stromal composition of heterogeneous tissue, from transcriptomic data. It is distributed as a R package. (see also: (Petitprez et al 2020)[https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-00783-w]); tags: murine; mouse; r; mcp
