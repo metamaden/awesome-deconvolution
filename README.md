@@ -18,6 +18,8 @@ transfer learning and reuse of existing computational tools.
 
 * [xCell](https://xcell.ucsf.edu/) : xCell is a webtool that performs cell type enrichment analysis from gene expression data for 64 immune and stroma cell types (see also: [Aran et al 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1349-1)); tags: bulk; transcriptomics
 
+* [seq-ImmuCC](http://218.4.234.74:3200/immune/) : ImmuCC server was developed to estimate the relative immune cell compositions in mouse tissue from the transcriptomal data profiled on both microarray and RNA-Seq platforms (see also: (Chen et al 2018)[https://www.frontiersin.org/articles/10.3389/fimmu.2018.01286/full]); tags: immune; immune_cell; murine; mouse; transcriptomics
+
 * [mMCP-counter](https://github.com/cit-bioinfo/mMCP-counter) : Murine version of MCP-counter, a tool to estimate the immune and stromal composition of heterogeneous tissue, from transcriptomic data. It is distributed as a R package. (see also: (Petitprez et al 2020)[https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-00783-w]); tags: murine; mouse; r; mcp
 
 * [MCPcounter](https://github.com/ebecht/MCPcounter) :  The Microenvironment Cell Populations-counter (MCP-counter) method, which allows the robust quantification of the absolute abundance of eight immune and two stromal cell populations in heterogeneous tissues from transcriptomic data (see also: [Becht et al 2016](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1070-5)); tags: immune; immune_cell; blood; blood_cell; transcriptomics; microenvironment; human
