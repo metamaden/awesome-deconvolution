@@ -14,6 +14,8 @@ transfer learning and reuse of existing computational tools.
 
 ## Methods
 
+* [TOAST](https://bioconductor.org/packages/release/bioc/html/TOAST.html) : TOols for the Analysis of heterogeneouS Tissues. Tools for the analysis of heterogeneous tissues. (see also: [Li and Wu 2019](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1778-0)); tags: bioconductor; transcriptomics; reference-free; partial_reference-free
+
 * [SingleR](https://bioconductor.org/packages/release/bioc/html/SingleR.html) : Performs unbiased cell type recognition from single-cell RNA sequencing data, by leveraging reference transcriptomic datasets of pure cell types to infer the cell of origin of each single cell independently (see also: [Aran et al 2019](https://www.nature.com/articles/s41590-018-0276-y)); tags: single-cell; transcriptomics; bioconductor; r
 
 * [xCell](https://xcell.ucsf.edu/) : xCell is a webtool that performs cell type enrichment analysis from gene expression data for 64 immune and stroma cell types (see also: [Aran et al 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1349-1)); tags: bulk; transcriptomics
