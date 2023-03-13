@@ -14,6 +14,8 @@ transfer learning and reuse of existing computational tools.
 
 ## Methods
 
+* [quanTIseq](https://icbi.i-med.ac.at/software/quantiseq/doc/index.html) : quanTIseq is a computational pipeline for the quantification of the Tumor Immune contexture from human RNA-seq data (see also: [Finotello et al 2019](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0638-6)); tags: immune; immune_system; tumor; cancer; 
+
 * [SPOTlight](https://marcelosua.github.io/SPOTlight/) : SPOTlight provides a tool that enables the deconvolution of mixtures of cells from a single-cell reference (see also: [Bayes et al 2021](https://marcelosua.github.io/SPOTlight/)); tags: r; bioconductor; spatial; transcriptomics; spot; spot_deconvolution 
 
 * [Tangram](https://github.com/broadinstitute/Tangram) : Tangram is a Python package, written in PyTorch and based on scanpy, for mapping single-cell (or single-nucleus) gene expression data onto spatial gene expression data. (see also: [Biancalani and Scalia et al 2021](https://www.nature.com/articles/s41592-021-01264-7)); tags: python; pytorch; scanpy; spatial; transcriptiomics; spot; spot_deconvolution
