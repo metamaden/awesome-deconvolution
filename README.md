@@ -14,6 +14,8 @@ transfer learning and reuse of existing computational tools.
 
 ## Methods
 
+* [MCPcounter](https://github.com/ebecht/MCPcounter) :  The Microenvironment Cell Populations-counter (MCP-counter) method, which allows the robust quantification of the absolute abundance of eight immune and two stromal cell populations in heterogeneous tissues from transcriptomic data (see also: (Becht et al 2016)[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1070-5]); tags: immune; immune_cell; blood; blood_cell; transcriptomics; microenvironment
+
 * [TIMER](http://cistrome.org/TIMER/) : Tumor IMmune Estimation Resource. TIMER is a web resource for systematical evaluations of the clinical impact of different immune cells in diverse cancer types; tags: immune; immune_system; blood; blood_cell; tumor; cancer
 
 * [quanTIseq](https://icbi.i-med.ac.at/software/quantiseq/doc/index.html) : quanTIseq is a computational pipeline for the quantification of the Tumor Immune contexture from human RNA-seq data (see also: [Finotello et al 2019](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0638-6)); tags: immune; immune_system; tumor; cancer; 
