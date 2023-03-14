@@ -14,6 +14,8 @@ transfer learning and reuse of existing computational tools.
 
 ## Methods
 
+These are resources (libraries, packages, papers, etc.) which provide a specific deconvolution algorithm or approach.
+
 * [TOAST](https://bioconductor.org/packages/release/bioc/html/TOAST.html) : TOols for the Analysis of heterogeneouS Tissues. Tools for the analysis of heterogeneous tissues. (see also: [Li and Wu 2019](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1778-0)); tags: bioconductor; transcriptomics; reference-free; partial_reference-free
 
 * [TOAST-csDeconv])(https://bioconductor.org/packages/release/bioc/html/TOAST.html) : Function to improve the feature selection in reference-free deconvolution through cross-cell type differential analysis. (see also: [Li and Wu 2019](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1778-0)) tags: methylation; dna_methylation; dnam; epigenetics
@@ -88,6 +90,10 @@ transfer learning and reuse of existing computational tools.
 
 # Frameworks, workflows, simulations, and benchmarks
 
+These are resouces which provide a variety of different tools and utlities for conducting a deconvolution experiment.
+These may faciliate handling of simulations, generation of pseudobulks, harmonization of multiple references or
+matched and mismatched bulk and single-cell data, quality-control, and more.
+
 * [immunedeconv](https://github.com/omnideconv/immunedeconv) : An R package for unified access to computational methods for estimating immune cell fractions from bulk RNA sequencing data (see also: [Sturm et al 2019](https://academic.oup.com/bioinformatics/article/35/14/i436/5529146)); tags: R; Rstats; Rpackage; immune; immune_system; blood; blood_cells; framework
 
 * [lute](https://github.com/metamaden/lute) : An R package for bulk deconvolution access, simulation, optimization, and benchmarking. tags: R; Rstats; bioconductor; framework; size_factors; music; bisque; deconrnaseq; epic; nnls
@@ -100,11 +106,20 @@ transfer learning and reuse of existing computational tools.
 
 * [TME](https://olliecast.shinyapps.io/Deconvolution_Benchmarking/) : Benchmarking of Tumour Microenvrionment Cell Type Estimation From Bulk RNA. (see also: [Jiménez-Sánchez et al 2018](https://www.biorxiv.org/content/10.1101/437533v2.full)); tags: benchmark; tumor; cancer; microenvironment
 
+* [SCDC](https://meichendong.github.io/SCDC/) : Bulk Gene Expression Deconvolution by Multiple Single-Cell RNA Sequencing References ([Dong et al 2021](https://academic.oup.com/bib/article/22/1/416/5699815); tags: single-cell; rna-seq; transcriptomics).
+
+* [TOAST](https://bioconductor.org/packages/release/bioc/html/TOAST.html) : TOols for the Analysis of heterogeneouS Tissues. Tools for the analysis of heterogeneous tissues. (see also: [Li and Wu 2019](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1778-0)); tags: bioconductor; transcriptomics; reference-free; partial_reference-free
+
 # Resource hubs for deconvolution
+
+These are cetralized repositories for well-annotated datasets and other entities relevant to deconvolution and 
+benchmarking of deconvolution algorithms.
 
 * [omnideconv.org](https://omnideconv.org/) : omnideconv is an ecosystem of user-friendly tools and resources for the cell-type deconvolution of any organism and tissue profiled with bulk transcriptomics.
 
 # See also
+
+If you found `awesome-deconvolution` helpful, you may also be interested in the following:
 
 * [`awesome-awesomeness`](https://github.com/bayandin/awesome-awesomeness) : Large list of "awesome-*" style resources.
 *  [`awesome-single-cell`](https://github.com/seandavi/awesome-single-cell) : Large list of single-cell RNA-seq resources.
