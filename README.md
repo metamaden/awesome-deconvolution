@@ -40,9 +40,9 @@ These are resources (libraries, packages, papers, etc.) which provide a specific
 
 * [Tangram](https://github.com/broadinstitute/Tangram) : Tangram is a Python package, written in PyTorch and based on scanpy, for mapping single-cell (or single-nucleus) gene expression data onto spatial gene expression data. (see also: [Biancalani and Scalia et al 2021](https://www.nature.com/articles/s41592-021-01264-7)); tags: python; pytorch; scanpy; spatial; transcriptiomics; spot; spot_deconvolution
 
-* [MuSiC](https://github.com/xuranw/MuSiC) : MuSiC is an analysis toolkit for single-cell RNA-Seq experiments ([Wang et al 2019](https://www.nature.com/articles/s41467-018-08023-x); tags: single-cell; transcriptomics; rna-seq; bulk).
+* [MuSiC](https://github.com/xuranw/MuSiC) : MUlti-Subject SIngle Cell deconvolution (MuSiC) is an analysis toolkit for single-cell RNA-Seq experiments ([Wang et al 2019](https://www.nature.com/articles/s41467-018-08023-x); tags: single-cell; transcriptomics; rna-seq; bulk).
 
-* [MuSiC2](https://github.com/Jiaxin-Fan/MuSiC2) : Cell type deconvolution for multi-condition bulk RNA-seq data ([Fan et al 2022](https://academic.oup.com/bib/article-abstract/23/6/bbac430/6751147?redirectedFrom=fulltext); tags: single-cell; transcriptomics; rna-seq; bulk; case_control)
+* [MuSiC2](https://github.com/Jiaxin-Fan/MuSiC2) : MUlti-Subject SIngle Cell deconvolution 2 (MuSiC2). Cell type deconvolution for multi-condition bulk RNA-seq data ([Fan et al 2022](https://academic.oup.com/bib/article-abstract/23/6/bbac430/6751147?redirectedFrom=fulltext); tags: single-cell; transcriptomics; rna-seq; bulk; case_control)
 
 * [Bisque](https://github.com/cozygene/bisque) : An R toolkit for accurate and efficient estimation of cell composition ('decomposition') from bulk expression data with single-cell information ([Jew et al 2020](https://www.nature.com/articles/s41467-020-15816-6); tags: single-cell; transcriptomics; rna-seq; bulk).
 
